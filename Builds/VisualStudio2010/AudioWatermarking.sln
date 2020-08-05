@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FB2FB6F9-7490-AA6D-B272-7866CBAC60FE}") = "AudioWatermarking", "AudioWatermarking.vcxproj", "{020E8AD8-2C37-58B2-F39E-C95C19F4B54F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020E8AD8-2C37-58B2-F39E-C95C19F4B54F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{020E8AD8-2C37-58B2-F39E-C95C19F4B54F}.Debug|Win32.Build.0 = Debug|Win32
+		{020E8AD8-2C37-58B2-F39E-C95C19F4B54F}.Release|Win32.ActiveCfg = Release|Win32
+		{020E8AD8-2C37-58B2-F39E-C95C19F4B54F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
